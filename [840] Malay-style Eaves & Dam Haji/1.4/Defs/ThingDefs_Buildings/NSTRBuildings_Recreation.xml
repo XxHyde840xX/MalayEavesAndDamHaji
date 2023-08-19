@@ -5,7 +5,7 @@
   <ThingDef ParentName="FurnitureWithQualityBase">
     <defName>NSTRDamHaji</defName>
     <label>Dam Haji</label>
-    <description>A Malay board game that is quite similar to chess, games can last anywhere from half an hour to many hours.</description>
+    <description>A Malay board game that is quite similar to chess, games can last anywhere from half an hour to many hours. This building requires adjacent chairs or stools to use.</description>
     <graphicData>
       <texPath>Things/Building/Joy/NSTRDamHaji/NSTRDamHaji</texPath>
             <graphicClass>Graphic_Multi</graphicClass>
