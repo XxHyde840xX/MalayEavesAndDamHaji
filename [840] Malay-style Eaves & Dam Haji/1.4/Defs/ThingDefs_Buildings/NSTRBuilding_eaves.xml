@@ -6,6 +6,7 @@
     <label>Nipah Eave</label>
     <description>A Malay-style eave for house roofs.</description>
 	<category>Building</category>
+	<designationCategory>Structure</designationCategory>
     <altitudeLayer>MoteOverhead</altitudeLayer>
     <passability>Standable</passability>
     <fillPercent>0.40</fillPercent>
