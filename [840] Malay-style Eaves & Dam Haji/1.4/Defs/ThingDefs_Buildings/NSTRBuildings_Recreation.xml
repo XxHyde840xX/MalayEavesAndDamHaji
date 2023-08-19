@@ -50,31 +50,4 @@
     <designationHotKey>Misc2</designationHotKey>
   </ThingDef>
   
-  <JoyGiverDef>
-    <defName>Play_DamHaji</defName>
-    <giverClass>JoyGiver_InteractBuildingSitAdjacent</giverClass>
-    <baseChance>2</baseChance>
-    <thingDefs>
-      <li>NSTRDamHaji</li>
-    </thingDefs>
-    <jobDef>Play_DamHaji</jobDef>
-    <joyKind>Gaming_Cerebral</joyKind>
-    <requiredCapacities>
-      <li>Manipulation</li>
-    </requiredCapacities>
-  </JoyGiverDef>
-  
-   <JobDef>
-    <defName>Play_DamHaji</defName>
-    <driverClass>JobDriver_SitFacingBuilding</driverClass>
-    <reportString>Playing Dam Haji.</reportString>
-    <joyDuration>4000</joyDuration>
-    <joyMaxParticipants>2</joyMaxParticipants>
-    <joySkill>Intellectual</joySkill>
-    <joyXpPerTick>0.002</joyXpPerTick>
-    <joyKind>Gaming_Cerebral</joyKind>
-    <taleOnCompletion>PlayedGame</taleOnCompletion>
-    <allowOpportunisticPrefix>true</allowOpportunisticPrefix>
-  </JobDef>
-
 </Defs>

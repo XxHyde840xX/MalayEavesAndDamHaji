@@ -3,7 +3,7 @@
 <Defs>
 
 <JoyGiverDef>
-	<defName>DamHajiGame</defName>
+	<defName>Play_DamHaji</defName>
 	<giverClass>JoyGiver_InteractBuildingSitAdjacent</giverClass>
 	<baseChance>2</baseChance>
 	<thingDefs>
