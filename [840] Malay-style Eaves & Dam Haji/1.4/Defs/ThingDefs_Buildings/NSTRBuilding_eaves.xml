@@ -4,7 +4,8 @@
  <ThingDef ParentName="FurnitureBase">
     <defName>NSTRNipahEave</defName>
     <label>Nipah Eave</label>
-    <description>a eave for house roofs.</description>
+    <description>A Malay-style eave for house roofs.</description>
+	<category>Building</category>
     <altitudeLayer>MoteOverhead</altitudeLayer>
     <passability>Standable</passability>
     <fillPercent>0.40</fillPercent>
@@ -24,10 +25,6 @@
     <size>(1,1)</size>
     <uiIconOffset>(0, 0.15)</uiIconOffset>
     <filthLeaving>Filth_Trash</filthLeaving>
-    <designationCategory>NSTRMalayBuildingsTab</designationCategory>
-    <researchPrerequisites>
-     <li>NSTR_Malay_Buildings</li>
-    </researchPrerequisites>
     <graphicData>
       <texPath>Things/Building/NipahEave/NipahEave</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -42,5 +39,6 @@
 			<isEdifice>false</isEdifice>    
 		</building>
   </ThingDef>
-  
+ 
 </Defs>
+

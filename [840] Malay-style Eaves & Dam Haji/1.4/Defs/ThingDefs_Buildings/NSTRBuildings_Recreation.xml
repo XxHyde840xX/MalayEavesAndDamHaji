@@ -3,7 +3,7 @@
   
   <ThingDef ParentName="FurnitureWithQualityBase">
     <defName>NSTRDamHaji</defName>
-    <label>dam haji</label>
+    <label>Dam Haji</label>
     <description>A Malay board game that is quite similar to chess, games can last anywhere from half an hour to many hours.</description>
     <graphicData>
       <texPath>Things/Building/Joy/NSTRDamHaji/NSTRDamHaji</texPath>
@@ -29,9 +29,6 @@
     <building>
       <joyKind>Gaming_Cerebral</joyKind>
     </building>
-    <researchPrerequisites>
-      <li>NSTR_Malay_Buildings</li>
-    </researchPrerequisites>
     <statBases>
       <MaxHitPoints>100</MaxHitPoints>
       <WorkToBuild>8000</WorkToBuild>
@@ -48,7 +45,7 @@
     <costStuffCount>70</costStuffCount>
     <pathCost>30</pathCost>
     <passability>PassThroughOnly</passability>
-    <designationCategory>NSTRMalayBuildingsTab</designationCategory>
+    <designationCategory>Joy</designationCategory>
     <designationHotKey>Misc2</designationHotKey>
   </ThingDef>
 
