@@ -3,13 +3,13 @@
 <Defs>
 
 <JoyGiverDef>
-	<defName>Play_DamHaji</defName>
+	<defName>840_Play_DamHaji</defName>
 	<giverClass>JoyGiver_InteractBuildingSitAdjacent</giverClass>
 	<baseChance>2</baseChance>
 	<thingDefs>
-		<li>NSTRDamHaji</li>
+		<li>840DamHaji</li>
 	</thingDefs>
-	<jobDef>Play_DamHaji</jobDef>
+	<jobDef>840_Play_DamHaji</jobDef>
 	<joyKind>Gaming_Cerebral</joyKind>
 	<requiredCapacities>
 		<li>Manipulation</li>

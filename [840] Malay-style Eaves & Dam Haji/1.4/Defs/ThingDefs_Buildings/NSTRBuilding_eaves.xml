@@ -2,7 +2,7 @@
 <Defs>
 
  <ThingDef ParentName="FurnitureBase">
-    <defName>NSTRNipahEave</defName>
+    <defName>840NipahEave</defName>
     <label>Nipah Eave</label>
     <description>A Malay-style eave for house roofs.</description>
 	<category>Building</category>

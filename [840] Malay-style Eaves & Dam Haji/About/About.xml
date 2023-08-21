@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+
 <ModMetaData>
 	<name>Malay-style Eaves and Dam Haji</name>
 	<author>XxHyde840xX/Shanaki97</author>
@@ -6,9 +7,8 @@
 <supportedVersions>
 	<li>1.4</li>
 </supportedVersions>
-<modDependencies>
-</modDependencies>
-<loadAfter>
-</loadAfter>
+	<incompatibleWith>
+		<li>NSTR.Malay.Themed.Expansion</li>
+	</incompatibleWith>
 <description>Malay-style eaves and Dam Haji recreation item spun out from the Malay Themed Expansion, located at; https://steamcommunity.com/sharedfiles/filedetails/?id=2884249920. All credit to Shankai97, I just yanked the eaves and Dam Haji.</description>
 </ModMetaData>
